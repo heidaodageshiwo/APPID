@@ -16,6 +16,20 @@ githubAPPID展示
 
 # 美区苹果id截图：登录美区id以后，App Store展示的都是英文，可以下载美区的软件
 
+
+![binaryTree](./image/0.png "binaryTree")
+![binaryTree](./image/01.png "binaryTree")
+![binaryTree](./image/02.png "binaryTree")
+![binaryTree](./image/03.png "binaryTree")
+![binaryTree](./image/04.png "binaryTree")
+![binaryTree](./image/05.png "binaryTree")
+![binaryTree](./image/06.png "binaryTree")
+![binaryTree](./image/07.png "binaryTree")
+![binaryTree](./image/08.png "binaryTree")
+![binaryTree](./image/09.png "binaryTree")
+![binaryTree](./image/001.png "binaryTree")
+![binaryTree](./image/002.png "binaryTree")
+![binaryTree](./image/003.png "binaryTree")
 ![binaryTree](./image/1.png "binaryTree")
 ![binaryTree](./image/2.png "binaryTree")
 ![binaryTree](./image/3.png "binaryTree")
@@ -35,3 +49,14 @@ githubAPPID展示
 ![binaryTree](./image/16.png "binaryTree")
 ![binaryTree](./image/17.png "binaryTree")
 ![binaryTree](./image/18.png "binaryTree")
+
+
+![binaryTree](./image/21.png "binaryTree")
+![binaryTree](./image/22.png "binaryTree")
+![binaryTree](./image/23.png "binaryTree")
+![binaryTree](./image/24.png "binaryTree")
+![binaryTree](./image/25.png "binaryTree")
+![binaryTree](./image/26.png "binaryTree")
+![binaryTree](./image/27.png "binaryTree")
+![binaryTree](./image/28.png "binaryTree")
+![binaryTree](./image/29.png "binaryTree")
