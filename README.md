@@ -14,6 +14,19 @@ githubAPPID展示
 微信二维码：
 ![binaryTree](./image/weixin.jpg "binaryTree")
 
+## 11月新增账号：
+### 1.4n7urk4v@temporary-mail.net
+### 2.h427e177@temporary-mail.net
+### 3.ffja6qpz@temporary-mail.net
+### 4.3j3yefta@temporary-mail.net
+### 5.5gz17_kc@temporary-mail.net
+### 6.rmdgaur4@temporary-mail.net
+### 7.xdwkkg33@temporary-mail.net
+### 8.rqkciy8c@temporary-mail.net
+### 9.qjzzeugm@temporary-mail.net(已售)
+### 10.jx8hqqo3@temporary-mail.net(已售)
+### 11.y7cu4jx2@temporary-mail.net(已售)
+
 # 美区苹果id截图：登录美区id以后，App Store展示的都是英文，可以下载美区的软件
 
 
