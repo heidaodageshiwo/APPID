@@ -21,7 +21,7 @@ githubAPPID展示
 ### 4.3j3yefta@temporary-mail.net
 ### 5.5gz17_kc@temporary-mail.net
 ### 6.rmdgaur4@temporary-mail.net
-### 7.xdwkkg33@temporary-mail.net
+### 7.xdwkkg33@temporary-mail.net(已售)
 ### 8.rqkciy8c@temporary-mail.net
 ### 9.qjzzeugm@temporary-mail.net(已售)
 ### 10.jx8hqqo3@temporary-mail.net(已售)
