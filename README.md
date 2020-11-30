@@ -21,11 +21,11 @@ githubAPPID展示
 ### 4.3j3yefta@temporary-mail.net
 ### 5.5gz17_kc@temporary-mail.net
 ### 6.rmdgaur4@temporary-mail.net
-### 7.xdwkkg33@temporary-mail.net(已售)
+### ~~7.xdwkkg33@temporary-mail.net(已售)~~
 ### 8.rqkciy8c@temporary-mail.net
-### 9.qjzzeugm@temporary-mail.net(已售)
-### 10.jx8hqqo3@temporary-mail.net(已售)
-### 11.y7cu4jx2@temporary-mail.net(已售)
+### ~~9.qjzzeugm@temporary-mail.net(已售)~~
+### ~~10.jx8hqqo3@temporary-mail.net(已售)~~
+### ~~11.y7cu4jx2@temporary-mail.net(已售)~~
 
 # 美区苹果id截图：登录美区id以后，App Store展示的都是英文，可以下载美区的软件
 
